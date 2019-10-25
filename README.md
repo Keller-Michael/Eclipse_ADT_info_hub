@@ -11,12 +11,15 @@ The goal of this repository is to collect and share helpful information about AB
 * [ABAP in Eclipse Shortcuts Cheat Sheet](https://github.com/michal-majer/abap-in-eclipse-shortcuts-cheat-sheet)
 
 ## Blogs
+* [Running ABAP in Eclipse from a USB stick powered by SapMachine](https://blogs.sap.com/2019/10/25/running-abap-in-eclipse-from-a-usb-stick-powered-by-sapmachine/) (2019/10/25)
+* [Installing lean Eclipse with ADT](https://blogs.sap.com/2019/06/07/installing-lean-eclipse-with-adt/) (2019/06/07)
 * [ADT more general keyboard navigation](https://blogs.sap.com/2019/10/17/adt-and-other-editors-more-general-keyboard-navigation/) (2019/10/17)
 * [ABAP keyword colors for Eclipse](https://blogs.sap.com/2019/06/28/more-syntax-highlighting-adventures-abap-keyword-colors-for-eclipse/) (2019/06/28)
 * [Important changes to the ADT](https://blogs.sap.com/2019/04/15/important-changes-to-the-abap-development-tools-adt-release-cycle/) (2019/04/15)
 * [Keyboard Shortcuts You Cannot Miss + Cheat Sheet](https://blogs.sap.com/2017/07/12/abap-in-eclipse-keyboard-shortcuts-you-cannot-miss-cheat-sheet/) (2017/06/12)
 * [New FAQ Guide](https://blogs.sap.com/2017/02/20/new-faq-guide-for-smooth-transition-from-se80-to-abap-in-eclispe/) (2017/02/20)
 * [Working with ABAP Development Tools (Quick Launch)](https://blogs.sap.com/2012/06/19/working-with-abap-development-tools-quick-launch/) (2012/06/19)
+* [ADT Feature Availability Matrix for AS ABAP Releases](https://blogs.sap.com/2013/06/05/adt-feature-availability-matrix-for-as-abap-releases/) (2013/06/05)
 * [Get started](https://blogs.sap.com/2012/06/19/get-started-with-the-abap-development-tools-for-sap-netweaver/) (2012/06/19)
 * [ABAP Development Tools Tutorials](https://blogs.sap.com/2012/09/18/abap-development-tools-tutorials-learn-how-to-use-abap-in-eclipse/) (2012/09/18)
 * [FAQs - ABAP Development Tools for Eclipse](https://blogs.sap.com/2012/06/12/faqs-abap-development-tools-for-eclipse/) (2012/06/12)
