@@ -16,6 +16,7 @@ The goal of this repository is to collect and share helpful information about AB
 * [ADT more general keyboard navigation](https://blogs.sap.com/2019/10/17/adt-and-other-editors-more-general-keyboard-navigation/) (2019/10/17)
 * [ABAP keyword colors for Eclipse](https://blogs.sap.com/2019/06/28/more-syntax-highlighting-adventures-abap-keyword-colors-for-eclipse/) (2019/06/28)
 * [Important changes to the ADT](https://blogs.sap.com/2019/04/15/important-changes-to-the-abap-development-tools-adt-release-cycle/) (2019/04/15)
+* [Darkest Dark Theme for Eclipse with ADT](https://blogs.sap.com/2017/07/20/darkest-dark-theme-for-eclipse-with-adt/) (2017/07/20)
 * [Keyboard Shortcuts You Cannot Miss + Cheat Sheet](https://blogs.sap.com/2017/07/12/abap-in-eclipse-keyboard-shortcuts-you-cannot-miss-cheat-sheet/) (2017/06/12)
 * [New FAQ Guide](https://blogs.sap.com/2017/02/20/new-faq-guide-for-smooth-transition-from-se80-to-abap-in-eclispe/) (2017/02/20)
 * [Working with ABAP Development Tools (Quick Launch)](https://blogs.sap.com/2012/06/19/working-with-abap-development-tools-quick-launch/) (2012/06/19)
