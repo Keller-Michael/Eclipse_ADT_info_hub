@@ -5,6 +5,8 @@ The goal of this repository is to collect and share helpful information about AB
 * [SAP Development Tools](https://tools.hana.ondemand.com)
 * [ABAP Development Tools](https://tools.hana.ondemand.com/#abap)
 * [ABAP Development User Guide](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/4b190c90ceba4d02a99e0a2286b89358.html)
+* [Official Eclipse page](https://www.eclipse.org/)
+* [Official Eclipse help page](https://help.eclipse.org)
 * [FAQs for SE80 Experts Using ADT](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/bd5c5b75eeab4b7892eff1e1abce7485.html)
 * [Configuring ABAP Back-end for ADT](https://help.sap.com/doc/2e65ad9a26c84878b1413009f8ac07c3/201909.000/en-US/config_guide_system_backend_abap_development_tools.pdf)
 * [Keyboard shortcuts](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/4ec299d16e391014adc9fffe4e204223.html)
@@ -27,3 +29,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Videos
 * [ABAP in Eclipse](https://www.youtube.com/playlist?list=PLM6Ee3lDb6FgYc8PhQbfD90Z4jA17j3V7)
+
+## Add-ons
+Please pay attention to the installation and compatibility instructions of the add-ons.
+
+* [ADT Transport of Copies plugin](https://github.com/kgorin8/adt_transport_copy_plugin)
