@@ -28,6 +28,8 @@ The goal of this repository is to collect and share helpful information about AB
 * [FAQs - ABAP Development Tools for Eclipse](https://blogs.sap.com/2012/06/12/faqs-abap-development-tools-for-eclipse/) (2012/06/12)
 
 ## Videos
+On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTxyLCuli33BQrLmrg/featured), which has many videos about ADT.
+
 * [ABAP in Eclipse](https://www.youtube.com/playlist?list=PLM6Ee3lDb6FgYc8PhQbfD90Z4jA17j3V7)
 
 ## Add-ons
