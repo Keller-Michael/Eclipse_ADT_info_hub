@@ -7,12 +7,16 @@ The goal of this repository is to collect and share helpful information about AB
 * [ABAP Development User Guide](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/4b190c90ceba4d02a99e0a2286b89358.html)
 * [Official Eclipse page](https://www.eclipse.org/)
 * [Official Eclipse help page](https://help.eclipse.org)
+* [Java download page](https://www.java.com/de/download/)
 * [FAQs for SE80 Experts Using ADT](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/bd5c5b75eeab4b7892eff1e1abce7485.html)
 * [Configuring ABAP Back-end for ADT](https://help.sap.com/doc/2e65ad9a26c84878b1413009f8ac07c3/201909.000/en-US/config_guide_system_backend_abap_development_tools.pdf)
 * [Keyboard shortcuts](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/4ec299d16e391014adc9fffe4e204223.html)
 * [ABAP in Eclipse Shortcuts Cheat Sheet](https://github.com/michal-majer/abap-in-eclipse-shortcuts-cheat-sheet)
 
 ## Blogs
+* [Minimap in Eclipse](https://blogs.sap.com/2019/11/22/minimap-in-eclipse/) (2019/11/22)
+* [SE80? ADT? Whatever, Just Wash Your Hands](https://blogs.sap.com/2019/11/20/se80-adt-whatever-just-wash-your-hands/) (2019/11/20)
+* [SE80 or ADT… The question is still there…](https://blogs.sap.com/2019/11/19/se80-or-adt...-the-question-is-still-there.../) (2019/11/19)
 * [Running ABAP in Eclipse from a USB stick powered by SapMachine](https://blogs.sap.com/2019/10/25/running-abap-in-eclipse-from-a-usb-stick-powered-by-sapmachine/) (2019/10/25)
 * [Installing lean Eclipse with ADT](https://blogs.sap.com/2019/06/07/installing-lean-eclipse-with-adt/) (2019/06/07)
 * [ADT more general keyboard navigation](https://blogs.sap.com/2019/10/17/adt-and-other-editors-more-general-keyboard-navigation/) (2019/10/17)
