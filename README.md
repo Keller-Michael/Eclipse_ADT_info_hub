@@ -14,6 +14,7 @@ The goal of this repository is to collect and share helpful information about AB
 * [ABAP in Eclipse Shortcuts Cheat Sheet](https://github.com/michal-majer/abap-in-eclipse-shortcuts-cheat-sheet)
 
 ## Blogs
+* [Less-known ADT features – expand components in the Internal Table debugger](https://blogs.sap.com/2019/12/11/less-known-adt-features-expand-components-in-the-internal-table-debugger/) (2019/12/11)
 * [Minimap in Eclipse](https://blogs.sap.com/2019/11/22/minimap-in-eclipse/) (2019/11/22)
 * [SE80? ADT? Whatever, Just Wash Your Hands](https://blogs.sap.com/2019/11/20/se80-adt-whatever-just-wash-your-hands/) (2019/11/20)
 * [SE80 or ADT… The question is still there…](https://blogs.sap.com/2019/11/19/se80-or-adt...-the-question-is-still-there.../) (2019/11/19)
