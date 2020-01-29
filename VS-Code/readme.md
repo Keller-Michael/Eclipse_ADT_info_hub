@@ -1,7 +1,7 @@
 # Blogs
 
 * [abap development in vs code ( 2019/12/06 )](https://blogs.sap.com/2019/12/06/abap-development-in-vs-code/)
-* [ABAP remote plugin for visual studio code](https://blogs.sap.com/2019/01/11/abap-remote-plugin-for-visual-studio-code/)
+* [ABAP remote plugin for visual studio code (2019/11/01 )](https://blogs.sap.com/2019/01/11/abap-remote-plugin-for-visual-studio-code/)
 
 ## Add-Ons
 
