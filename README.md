@@ -4,8 +4,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Eclipse
 
-[Eclipse Info Hub](https://github.com/DennstedtB/Eclipse_ADT_info_hub/blob/master/Eclipse/readme.md)
+[Eclipse Info Hub](/Eclipse/readme.md)
 
 ## VS-Code
 
-[VS-Code Info Hub](https://github.com/DennstedtB/Eclipse_ADT_info_hub/blob/master/VS-Code/readme.md)
+[VS-Code Info Hub](/VS-Code/readme.md)
