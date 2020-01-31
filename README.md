@@ -18,7 +18,7 @@ The online and offline development of ABAP source code in Visual Studio Code is 
 
 [Visual Studio Code info hub](/VS-Code/readme.md)
 
-## Notepad++
+## ABAP in Notepad++
 
 Notepad++ is a nice tool to develop offline ABAP source code.
 
