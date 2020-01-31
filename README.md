@@ -28,4 +28,4 @@ Notepad++ is a nice tool to develop offline ABAP source code.
 
 In addition to the various development environments, there are many helpful tools that make the developer life easier.
 
-[Helpful tools info hub((/tools/readme.md)
+[Helpful tools info hub](/tools/readme.md)
