@@ -34,4 +34,6 @@ If you want to start some transactions after log on to a SAP ERP system automati
 
 This tool is usefull if you work with different clients and you want to share your favorites between them. Check this [blog](https://blogs.sap.com/2018/03/19/synchronize-your-sap-gui-favorites/) for more information.
 
+## 7-Zip
 
+[7-Zip](https://www.7-zip.org/) is a free file archiver.
