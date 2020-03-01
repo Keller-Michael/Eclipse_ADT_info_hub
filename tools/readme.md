@@ -6,6 +6,10 @@ Below are some practical and free tools for everyday developer work. The tools a
 
 [abapGit](https://docs.abapgit.org/) is a git client for ABAP developed in ABAP.
 
+## abaplint
+
+[abaplint](https://github.com/abaplint/abaplint) is a [linter](https://en.wikipedia.org/wiki/Lint_(software)) for ABAP.
+
 ## draw.io (Online/Windows)
 
 draw.io can be used online or as installable edition to create and share diagrams. You can e.g. create [class diagrams](https://en.wikipedia.org/wiki/Class_diagram).
