@@ -17,6 +17,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [Eclipse 2020-03 – what’s in it for abapers?](https://blogs.sap.com/2020/03/19/eclipse-2020-03-whats-in-it-for-abapers/) (2020/03/19)
 * [views and perspectives in ADT for Eclipse](https://blogs.sap.com/2020/01/26/views-and-perspectives-in-adt-for-eclipse/) (2020/01/16)
 * [element information in ADT for Eclipse](https://blogs.sap.com/2020/01/19/element-information-in-adt-for-eclipse/) (2020/01/19)
 * [Less-known ADT features – expand components in the Internal Table debugger](https://blogs.sap.com/2019/12/11/less-known-adt-features-expand-components-in-the-internal-table-debugger/) (2019/12/11)
