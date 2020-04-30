@@ -17,6 +17,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [ADT ABAP Debugger – What to do if your program does not stop at breakpoints](https://blogs.sap.com/2020/04/21/adt-abap-debugger-what-to-do-if-your-program-does-not-stop-at-breakpoints/) (2020/04/21)
+* [How dearly I would like to edit my ABAP-code in my code editor that is ABAP development Tools (AdT) in Eclipse](https://blogs.sap.com/2020/04/16/how-dearly-i-would-like-to-edit-my-abap-code-in-my-code-editor-that-is-abap-development-tools-adt-in-eclipsese/) (2020/04/16)
 * [Eclipse 2020-03 – what’s in it for abapers?](https://blogs.sap.com/2020/03/19/eclipse-2020-03-whats-in-it-for-abapers/) (2020/03/19)
 * [views and perspectives in ADT for Eclipse](https://blogs.sap.com/2020/01/26/views-and-perspectives-in-adt-for-eclipse/) (2020/01/16)
 * [element information in ADT for Eclipse](https://blogs.sap.com/2020/01/19/element-information-in-adt-for-eclipse/) (2020/01/19)
