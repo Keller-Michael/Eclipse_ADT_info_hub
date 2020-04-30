@@ -2,6 +2,7 @@
 
 ## Blogs
 
+* [abapGit and unit test in visual studio code](https://blogs.sap.com/2020/04/13/abapgit-and-unit-test-in-visual-studio-code/) (2020/04/13)
 * [Connecting visual studio code with cloud platform](https://blogs.sap.com/2020/04/01/connecting-visual-studio-code-with-cloud-platform/) (2020/04/01)
 * [ABAP development in Visual Studio Code](https://blogs.sap.com/2019/12/06/abap-development-in-vs-code/) (2019/12/06)
 * [ABAP remote plugin for Visual Studio Code](https://blogs.sap.com/2019/01/11/abap-remote-plugin-for-visual-studio-code/) (2019/11/01)
