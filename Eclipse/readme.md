@@ -17,6 +17,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [Comments for the ADT Quick Fixes](https://blogs.sap.com/2020/05/18/comments-for-the-adt-quick-fixes/) (2020/05/18)
 * [ADT ABAP Debugger – What to do if your program does not stop at breakpoints](https://blogs.sap.com/2020/04/21/adt-abap-debugger-what-to-do-if-your-program-does-not-stop-at-breakpoints/) (2020/04/21)
 * [How dearly I would like to edit my ABAP-code in my code editor that is ABAP development Tools (AdT) in Eclipse](https://blogs.sap.com/2020/04/16/how-dearly-i-would-like-to-edit-my-abap-code-in-my-code-editor-that-is-abap-development-tools-adt-in-eclipsese/) (2020/04/16)
 * [Eclipse 2020-03 – what’s in it for abapers?](https://blogs.sap.com/2020/03/19/eclipse-2020-03-whats-in-it-for-abapers/) (2020/03/19)
@@ -64,7 +65,7 @@ In addition to the add-ons mentioned in the following list, add-ons can also be 
 
 ## SAP tutorials
 
-Use the [SAP Tutorial Navigator](https://developers.sap.com/tutorial-navigator.html) to find more tutorials.
+Use the [SAP Tutorial Navigator](https://developers.sap.com/tutorial-navigator.html) to find more tutorials. Another interesting video is "[Refactoring in ADT](https://www.youtube.com/watch?v=zx8K28HFjF8)".
 
 * [Create an ABAP Project in ABAP Development Tools (ADT)](https://developers.sap.com/tutorials/abap-create-project.html)
 * [Get Started with ABAP Development](https://developers.sap.com/mission.abap-dev-get-started.html)
