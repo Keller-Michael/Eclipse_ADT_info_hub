@@ -51,7 +51,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Videos
 
-On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTxyLCuli33BQrLmrg/featured), which has many videos about ADT (example "[ABAP in Eclipse](https://www.youtube.com/playlist?list=PLM6Ee3lDb6FgYc8PhQbfD90Z4jA17j3V7)").
+On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTxyLCuli33BQrLmrg/featured), which has many videos about ADT (example "[ABAP in Eclipse](https://www.youtube.com/playlist?list=PLM6Ee3lDb6FgYc8PhQbfD90Z4jA17j3V7)").  Another interesting video is "[Refactoring in ADT](https://www.youtube.com/watch?v=zx8K28HFjF8)".
 
 ## Add-ons
 
@@ -65,7 +65,7 @@ In addition to the add-ons mentioned in the following list, add-ons can also be 
 
 ## SAP tutorials
 
-Use the [SAP Tutorial Navigator](https://developers.sap.com/tutorial-navigator.html) to find more tutorials. Another interesting video is "[Refactoring in ADT](https://www.youtube.com/watch?v=zx8K28HFjF8)".
+Use the [SAP Tutorial Navigator](https://developers.sap.com/tutorial-navigator.html) to find more tutorials.
 
 * [Create an ABAP Project in ABAP Development Tools (ADT)](https://developers.sap.com/tutorials/abap-create-project.html)
 * [Get Started with ABAP Development](https://developers.sap.com/mission.abap-dev-get-started.html)
