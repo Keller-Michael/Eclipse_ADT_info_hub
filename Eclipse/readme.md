@@ -17,6 +17,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [My workflow for installing a new eclipse version (with AdT) – Eclipse 2020-06](https://blogs.sap.com/2020/07/08/my-workflow-for-installing-a-new-eclipse-version-with-adt-eclipse-2020-06/) (2020/07/08)
 * [Installing and configuring Eclipse for ABAP Development Tool](https://blogs.sap.com/2020/06/11/installing-and-configuring-eclipse-for-abap-development-tool/) (2020/06/11)
 * [Comments for the ADT Quick Fixes](https://blogs.sap.com/2020/05/18/comments-for-the-adt-quick-fixes/) (2020/05/18)
 * [ADT ABAP Debugger – What to do if your program does not stop at breakpoints](https://blogs.sap.com/2020/04/21/adt-abap-debugger-what-to-do-if-your-program-does-not-stop-at-breakpoints/) (2020/04/21)
@@ -58,6 +59,7 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 
 In addition to the add-ons mentioned in the following list, add-ons can also be found on the [Eclipse Marketplace](https://marketplace.eclipse.org/). At this point a big thanks to all developers for sharing their work.
 
+* [ABAP Tags Plugin](https://blogs.sap.com/2020/07/17/abap-tags-plugin/)
 * [ABAP Code Insight](https://marketplace.eclipse.org/content/abap-code-insight)
 * [ABAP Continuous Integration](https://marketplace.eclipse.org/content/abap-continuous-integration)
 * [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites)
