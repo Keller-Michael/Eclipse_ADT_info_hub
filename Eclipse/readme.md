@@ -17,6 +17,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [New ADT Feature - Creating ABAP CDS objects with reference to tables or other CDS views](https://blogs.sap.com/2020/08/15/new-adt-feature-creating-abap-cds-objects-with-reference-to-tables-or-other-cds-views/) (2020/08/15)
+* [How to extend SAP standard using ADT](https://blogs.sap.com/2020/08/05/how-to-extend-sap-standard-using-adt/) (2020/08/05)
 * [How to wrap long strings automatically in ADT](https://blogs.sap.com/2020/07/29/how-to-wrap-long-strings-automatically-in-adt/) (2020/07/29)
 * [My workflow for installing a new eclipse version (with AdT) – Eclipse 2020-06](https://blogs.sap.com/2020/07/08/my-workflow-for-installing-a-new-eclipse-version-with-adt-eclipse-2020-06/) (2020/07/08)
 * [Installing and configuring Eclipse for ABAP Development Tool](https://blogs.sap.com/2020/06/11/installing-and-configuring-eclipse-for-abap-development-tool/) (2020/06/11)
