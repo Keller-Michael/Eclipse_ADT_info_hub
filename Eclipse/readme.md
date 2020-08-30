@@ -58,6 +58,11 @@ The goal of this repository is to collect and share helpful information about AB
 
 On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTxyLCuli33BQrLmrg/featured), which has many videos about ADT (example "[ABAP in Eclipse](https://www.youtube.com/playlist?list=PLM6Ee3lDb6FgYc8PhQbfD90Z4jA17j3V7)").  Another interesting video is "[Refactoring in ADT](https://www.youtube.com/watch?v=zx8K28HFjF8)".
 
+## Books
+
+* [ABAP - An Introduction](https://www.sap-press.com/abap_4955/) (EN)
+* [ABAP-Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/) (DE)
+
 ## Add-ons
 
 In addition to the add-ons mentioned in the following list, add-ons can also be found on the [Eclipse Marketplace](https://marketplace.eclipse.org/). At this point a big thanks to all developers for sharing their work.
