@@ -2,6 +2,7 @@
 
 ## Blogs
 
+* [My Home SAP Development Setup | 2020](https://blogs.sap.com/2020/09/03/my-home-sap-development-setup-2020/) (2020/09/03)
 * [ABAP Development in VS Code | Setup Guide Video](https://blogs.sap.com/2020/08/27/abap-development-in-vs-code-setup-guide-video/) (2020/08/27)
 * [abapGit and unit test in visual studio code](https://blogs.sap.com/2020/04/13/abapgit-and-unit-test-in-visual-studio-code/) (2020/04/13)
 * [Connecting visual studio code with cloud platform](https://blogs.sap.com/2020/04/01/connecting-visual-studio-code-with-cloud-platform/) (2020/04/01)
