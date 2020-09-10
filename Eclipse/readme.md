@@ -14,6 +14,7 @@ The goal of this repository is to collect and share helpful information about AB
 * [Configuring ABAP Back-end for ADT](https://help.sap.com/doc/2e65ad9a26c84878b1413009f8ac07c3/201909.000/en-US/config_guide_system_backend_abap_development_tools.pdf)
 * [Keyboard shortcuts](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/4ec299d16e391014adc9fffe4e204223.html)
 * [ABAP in Eclipse Shortcuts Cheat Sheet](https://github.com/michal-majer/abap-in-eclipse-shortcuts-cheat-sheet)
+* [Comparing ABAP Debugging in SAP GUI and ABAP Development Tools](https://help.sap.com/doc/saphelp_nw75/7.5.5/en-US/4e/c325476e391014adc9fffe4e204223/content.htm?no_cache=true)
 
 ## Blogs
 
