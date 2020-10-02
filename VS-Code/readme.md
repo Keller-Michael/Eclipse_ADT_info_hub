@@ -2,6 +2,8 @@
 
 ## Blogs
 
+* [Exodus – IV: From SAP Web IDE to Visual Studio Code](https://panazea.net/exodo-iv-de-sap-webide-a-visual-studio-code-2/?lang=en) (2020/09/30)
+* [Exodus – III: Setting up the environment for VS Code](https://panazea.net/exodus-iii-setting-up-the-environment-for-vs-code/?lang=en) (2020/09/24)
 * [My Home SAP Development Setup | 2020](https://blogs.sap.com/2020/09/03/my-home-sap-development-setup-2020/) (2020/09/03)
 * [ABAP Development in VS Code | Setup Guide Video](https://blogs.sap.com/2020/08/27/abap-development-in-vs-code-setup-guide-video/) (2020/08/27)
 * [abapGit and unit test in visual studio code](https://blogs.sap.com/2020/04/13/abapgit-and-unit-test-in-visual-studio-code/) (2020/04/13)
