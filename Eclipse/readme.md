@@ -66,7 +66,7 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 ## Books
 
 * [ABAP - An Introduction](https://www.sap-press.com/abap_4955/) (EN)
-* [ABAP-Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/) (DE)
+* [ABAP - Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/) (DE)
 
 ## Add-ons
 
