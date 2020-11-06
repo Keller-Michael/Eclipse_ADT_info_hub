@@ -18,6 +18,10 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [Stay Informed About the Latest ADT Release Notes](https://blogs.sap.com/2020/10/22/stay-informed-about-the-latest-adt-features/) (2020/10/22)
+* [Benefit from The Help Content in ADT](https://blogs.sap.com/2020/10/21/benefit-from-the-help-content-in-adt/) (2020/10/21)
+* [ADT Relation Explorer](https://blogs.sap.com/2020/10/15/adt-relation-explorer/) (2020/10/15)
+* [How to use ADT Project Explorer and ABAP Repository Trees](https://blogs.sap.com/2020/09/18/how-to-use-adt-project-explorer-and-abap-repository-trees-check-out-the-new-video-of-the-adt-team/) (2020/09/18)
 * [New ADT Feature - Creating ABAP CDS objects with reference to tables or other CDS views](https://blogs.sap.com/2020/08/15/new-adt-feature-creating-abap-cds-objects-with-reference-to-tables-or-other-cds-views/) (2020/08/15)
 * [How to extend SAP standard using ADT](https://blogs.sap.com/2020/08/05/how-to-extend-sap-standard-using-adt/) (2020/08/05)
 * [How to wrap long strings automatically in ADT](https://blogs.sap.com/2020/07/29/how-to-wrap-long-strings-automatically-in-adt/) (2020/07/29)
