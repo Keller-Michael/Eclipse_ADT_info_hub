@@ -18,6 +18,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [ADT: Documenting ABAP Development Objects](https://blogs.sap.com/2020/11/20/adt-documenting-abap-development-objects/) (2020/11/20)
+* [Using Help Content When Creating Data Models in ADT](https://blogs.sap.com/2020/11/11/using-help-content-when-creating-data-models-in-adt/) (2020/11/11)
 * [Stay Informed About the Latest ADT Release Notes](https://blogs.sap.com/2020/10/22/stay-informed-about-the-latest-adt-features/) (2020/10/22)
 * [Benefit from The Help Content in ADT](https://blogs.sap.com/2020/10/21/benefit-from-the-help-content-in-adt/) (2020/10/21)
 * [ADT Relation Explorer](https://blogs.sap.com/2020/10/15/adt-relation-explorer/) (2020/10/15)
@@ -67,6 +69,7 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 
 * [ABAP - An Introduction](https://www.sap-press.com/abap_4955/) (EN)
 * [ABAP - Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/) (DE)
+* [Clean ABAP - A Style Guide for Developers](https://www.sap-press.com/clean-abap_5190/) (EN)
 
 ## Add-ons
 
