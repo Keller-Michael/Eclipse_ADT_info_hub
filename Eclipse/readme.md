@@ -18,6 +18,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [ADT: Element Info](https://blogs.sap.com/2021/02/15/adt-element-info/) (2021/02/15)
 * [ADT: Documenting ABAP Development Objects](https://blogs.sap.com/2020/11/20/adt-documenting-abap-development-objects/) (2020/11/20)
 * [Using Help Content When Creating Data Models in ADT](https://blogs.sap.com/2020/11/11/using-help-content-when-creating-data-models-in-adt/) (2020/11/11)
 * [Stay Informed About the Latest ADT Release Notes](https://blogs.sap.com/2020/10/22/stay-informed-about-the-latest-adt-features/) (2020/10/22)
