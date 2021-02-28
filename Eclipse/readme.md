@@ -18,6 +18,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [Eclipse – Learning Session](https://blogs.sap.com/2021/02/26/eclipse-learning-session/) (2021/02/26)
+* [Getting Helpful Tips & Tricks When Working with ADT](https://blogs.sap.com/2021/02/25/getting-helpful-tips-tricking-working-with-adt/) (2021/02/25)
 * [ADT: Element Info](https://blogs.sap.com/2021/02/15/adt-element-info/) (2021/02/15)
 * [ADT: Documenting ABAP Development Objects](https://blogs.sap.com/2020/11/20/adt-documenting-abap-development-objects/) (2020/11/20)
 * [Using Help Content When Creating Data Models in ADT](https://blogs.sap.com/2020/11/11/using-help-content-when-creating-data-models-in-adt/) (2020/11/11)
