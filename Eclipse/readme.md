@@ -18,6 +18,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [Lightweight Eclipse installation (or “yet anther blog post about installing Eclipse”)](https://blogs.sap.com/2021/03/19/lightweight-eclipse-installation-or-yet-anther-blog-post-about-installing-eclipse/) (2021/03/19)
 * [Eclipse – Learning Session – Comparison](https://blogs.sap.com/2021/03/02/eclipse-learning-session-comparison/) (2021/03/02)
 * [Eclipse – Learning Session](https://blogs.sap.com/2021/02/26/eclipse-learning-session/) (2021/02/26)
 * [Getting Helpful Tips & Tricks When Working with ADT](https://blogs.sap.com/2021/02/25/getting-helpful-tips-tricking-working-with-adt/) (2021/02/25)
