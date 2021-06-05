@@ -15,9 +15,11 @@ The goal of this repository is to collect and share helpful information about AB
 * [Keyboard shortcuts](https://help.sap.com/viewer/c238d694b825421f940829321ffa326a/7.51.1/en-US/4ec299d16e391014adc9fffe4e204223.html)
 * [ABAP in Eclipse Shortcuts Cheat Sheet](https://github.com/michal-majer/abap-in-eclipse-shortcuts-cheat-sheet)
 * [Comparing ABAP Debugging in SAP GUI and ABAP Development Tools](https://help.sap.com/doc/saphelp_nw75/7.5.5/en-US/4e/c325476e391014adc9fffe4e204223/content.htm?no_cache=true)
+* [Getting started - Basic Tutorials](https://help.sap.com/viewer/5371047f1273405bb46725a417f95433/LATEST/en-US/12bdb73f7f6a4bfe95540b31af29ac10.html)
 
 ## Blogs
 
+* [Getting Started Help Content for ABAP Development Tools (ADT)](https://blogs.sap.com/2021/05/31/getting-started-help-content-for-abap-development-tools/) (2021/05/31)
 * [Lightweight Eclipse installation (or “yet anther blog post about installing Eclipse”)](https://blogs.sap.com/2021/03/19/lightweight-eclipse-installation-or-yet-anther-blog-post-about-installing-eclipse/) (2021/03/19)
 * [Eclipse – Learning Session – Comparison](https://blogs.sap.com/2021/03/02/eclipse-learning-session-comparison/) (2021/03/02)
 * [Eclipse – Learning Session](https://blogs.sap.com/2021/02/26/eclipse-learning-session/) (2021/02/26)
