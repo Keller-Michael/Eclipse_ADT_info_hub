@@ -19,6 +19,11 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [ADT: Custom Dictionary with SAP terminology](https://blogs.sap.com/2021/06/22/adt-custom-dictionary-with-sap-terminology/) (2021/0/22)
+* [Eclipse ADT ABAP Profiling(performance analysis)](2021/07/15) (https://blogs.sap.com/2021/06/15/abap-adt-profilerperformance-analysis/)
+* [SAP ABAP Development Tools(ADT) – Productive Short Cuts](https://blogs.sap.com/2021/07/16/abap-adt-frequently-used-short-cuts/) (2021/07/16)
+* [Setup the dev environment for ABAP RESTfull application programming (RAP) using SAP BTP ABAP environment and eclipse ADT](https://blogs.sap.com/2021/07/11/setup-the-dev-environment-for-abap-restfull-application-programming-rap-using-sap-btp-abap-environment-and-eclipse-adt./) (2021/07/11)
+* [AP Eclipse / ADT Debugger does not stop at break point](https://blogs.sap.com/2021/07/09/sap-eclipse-adt-debugger-does-not-stop-at-break-point-adtsetup-adtdebugger/) (2021/07/09)
 * [Getting Started Help Content for ABAP Development Tools (ADT)](https://blogs.sap.com/2021/05/31/getting-started-help-content-for-abap-development-tools/) (2021/05/31)
 * [Lightweight Eclipse installation (or “yet anther blog post about installing Eclipse”)](https://blogs.sap.com/2021/03/19/lightweight-eclipse-installation-or-yet-anther-blog-post-about-installing-eclipse/) (2021/03/19)
 * [Eclipse – Learning Session – Comparison](https://blogs.sap.com/2021/03/02/eclipse-learning-session-comparison/) (2021/03/02)
@@ -74,6 +79,8 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 
 ## Books
 
+* [ABAP in Eclipse](https://www.apress.com/gp/book/9781484269626) (EN)
+* [ABAP Objects](https://www.rheinwerk-verlag.de/abap-objects-das-umfassende-handbuch/?gclid=EAIaIQobChMIqrDWwJCs8gIVhcx3Ch1MVQ21EAYYASABEgKei_D_BwE) (DE)
 * [ABAP - An Introduction](https://www.sap-press.com/abap_4955/) (EN)
 * [ABAP - Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/) (DE)
 * [Clean ABAP - A Style Guide for Developers](https://www.sap-press.com/clean-abap_5190/) (EN)
