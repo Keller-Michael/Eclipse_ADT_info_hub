@@ -19,8 +19,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
-* [ADT: Custom Dictionary with SAP terminology](https://blogs.sap.com/2021/06/22/adt-custom-dictionary-with-sap-terminology/) (2021/0/22)
-* [Eclipse ADT ABAP Profiling(performance analysis)](2021/07/15) (https://blogs.sap.com/2021/06/15/abap-adt-profilerperformance-analysis/)
+* [ADT: Custom Dictionary with SAP terminology](https://blogs.sap.com/2021/06/22/adt-custom-dictionary-with-sap-terminology/) (2021/07/22)
+* [Eclipse ADT ABAP Profiling(performance analysis)](https://blogs.sap.com/2021/06/15/abap-adt-profilerperformance-analysis/) (2021/07/15)
 * [SAP ABAP Development Tools(ADT) – Productive Short Cuts](https://blogs.sap.com/2021/07/16/abap-adt-frequently-used-short-cuts/) (2021/07/16)
 * [Setup the dev environment for ABAP RESTfull application programming (RAP) using SAP BTP ABAP environment and eclipse ADT](https://blogs.sap.com/2021/07/11/setup-the-dev-environment-for-abap-restfull-application-programming-rap-using-sap-btp-abap-environment-and-eclipse-adt./) (2021/07/11)
 * [AP Eclipse / ADT Debugger does not stop at break point](https://blogs.sap.com/2021/07/09/sap-eclipse-adt-debugger-does-not-stop-at-break-point-adtsetup-adtdebugger/) (2021/07/09)
