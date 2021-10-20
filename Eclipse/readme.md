@@ -96,6 +96,8 @@ In addition to the add-ons mentioned in the following list, add-ons can also be 
 * [ABAP Search and Analysis Tools Plugin](https://blogs.sap.com/2019/11/14/abap-search-and-analysis-tools-plugin/)
 * [ADT Transport of Copies plugin](https://github.com/kgorin8/adt_transport_copy_plugin)
 * [ABAP Quick Fix](https://marketplace.eclipse.org/content/abap-quick-fix)
+* [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions)
+* [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline)
 
 ## SAP tutorials
 
