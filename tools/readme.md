@@ -14,6 +14,14 @@ Below are some practical and free tools for everyday developer work. The tools a
 
 draw.io can be used online or as installable edition to create and share diagrams. You can e.g. create [class diagrams](https://en.wikipedia.org/wiki/Class_diagram).
 
+## regex101 (Online)
+
+[Website](https://regex101.com/) to easily check your regular expression.
+
+## XOData (Online)
+
+[Website](https://pragmatiqa.com/xodata/#) to visualize and explore OData services.
+
 ## Greenshot (Windows)
 
 If you need a powerful screenshot tool, then use [Greenshot](https://getgreenshot.org/).
