@@ -19,6 +19,7 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [Make use of ABAP Cloud support in the ABAP development tools for Eclipse (ADT)](https://blogs.sap.com/2023/03/29/make-use-of-abap-cloud-support-in-the-abap-development-tools-for-eclipse/) (2023/03/29)
 * [Benefit From Content Assist and Code Element Information When Developing Data Models](https://blogs.sap.com/2022/02/28/benefit-from-content-assist-and-code-element-information-when-developing-data-models/) (2022/02/28)
 * [ADT: Custom Dictionary with SAP terminology](https://blogs.sap.com/2021/06/22/adt-custom-dictionary-with-sap-terminology/) (2021/07/22)
 * [Eclipse ADT ABAP Profiling(performance analysis)](https://blogs.sap.com/2021/06/15/abap-adt-profilerperformance-analysis/) (2021/07/15)
