@@ -81,6 +81,7 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 
 ## Books
 
+* [ABAP Development Tools (ADT) in Eclipse](https://dsag.de/leistungen/wissen/sap-leitfaeden/) (DE)
 * [ABAP in Eclipse](https://www.apress.com/gp/book/9781484269626) (EN)
 * [ABAP Objects](https://www.rheinwerk-verlag.de/abap-objects-das-umfassende-handbuch/?gclid=EAIaIQobChMIqrDWwJCs8gIVhcx3Ch1MVQ21EAYYASABEgKei_D_BwE) (DE)
 * [ABAP - An Introduction](https://www.sap-press.com/abap_4955/) (EN)
