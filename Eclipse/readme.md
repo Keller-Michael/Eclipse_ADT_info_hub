@@ -93,6 +93,7 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 
 In addition to the add-ons mentioned in the following list, add-ons can also be found on the [Eclipse Marketplace](https://marketplace.eclipse.org/). At this point a big thanks to all developers for sharing their work.
 
+* [ABAP Cleaner](https://github.com/SAP/abap-cleaner)
 * [ABAP Tags Plugin](https://blogs.sap.com/2020/07/17/abap-tags-plugin/)
 * [ABAP Code Insight](https://marketplace.eclipse.org/content/abap-code-insight)
 * [ABAP Continuous Integration](https://marketplace.eclipse.org/content/abap-continuous-integration)
