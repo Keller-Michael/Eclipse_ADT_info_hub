@@ -19,6 +19,8 @@ The goal of this repository is to collect and share helpful information about AB
 
 ## Blogs
 
+* [ABAP Console Reloaded](https://blogs.sap.com/2023/10/24/abap-console-reloaded/) (2023/10/24)
+* [How to report an incident for ADT?](https://blogs.sap.com/2023/10/14/how-to-report-an-incident-for-adt/) (2023/10/14)
 * [How to show which keys have been pressed in ADT?](https://blogs.sap.com/2023/04/26/how-to-show-which-keys-have-been-pressed-in-adt/) (2023/04/26)
 * [Make use of ABAP Cloud support in the ABAP development tools for Eclipse (ADT)](https://blogs.sap.com/2023/03/29/make-use-of-abap-cloud-support-in-the-abap-development-tools-for-eclipse/) (2023/03/29)
 * [Benefit From Content Assist and Code Element Information When Developing Data Models](https://blogs.sap.com/2022/02/28/benefit-from-content-assist-and-code-element-information-when-developing-data-models/) (2022/02/28)
