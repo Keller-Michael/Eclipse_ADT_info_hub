@@ -2,6 +2,7 @@
 
 ## Blogs
 
+* [Merge conflicts with visual studio code](https://blogs.sap.com/2023/10/25/merge-conflicts-with-visual-studio-code/) (2023/10/25)
 * [Exodus – IV: From SAP Web IDE to Visual Studio Code](https://panazea.net/exodo-iv-de-sap-webide-a-visual-studio-code-2/?lang=en) (2020/09/30)
 * [Exodus – III: Setting up the environment for VS Code](https://panazea.net/exodus-iii-setting-up-the-environment-for-vs-code/?lang=en) (2020/09/24)
 * [My Home SAP Development Setup | 2020](https://blogs.sap.com/2020/09/03/my-home-sap-development-setup-2020/) (2020/09/03)
