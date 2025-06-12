@@ -91,6 +91,10 @@ On Youtube there is the [ABAP Channel](https://www.youtube.com/channel/UC5DgCoTx
 * [ABAP - Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/) (DE)
 * [Clean ABAP - A Style Guide for Developers](https://www.sap-press.com/clean-abap_5190/) (EN)
 
+## Eclipse ADT Bundle Builder
+
+Build a portable version of Eclipse including the ADT: [Eclipse ADT bundle builder](https://github.com/tobiashofmann/adt-bundle-builder)
+
 ## Add-ons
 
 In addition to the add-ons mentioned in the following list, add-ons can also be found on the [Eclipse Marketplace](https://marketplace.eclipse.org/). At this point a big thanks to all developers for sharing their work.
